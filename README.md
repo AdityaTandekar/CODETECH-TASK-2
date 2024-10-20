@@ -30,4 +30,5 @@ JAVASCRIPT <br>
 
 OUTPUT SCREENSHOTS:
 
-![Screenshot (14)](https://github.com/user-attachments/assets/5d28a9c2-afa9-4923-b74f-ad87dc1ef660)
+![Screenshot (15)](https://github.com/user-attachments/assets/b6619a96-bd54-4cf3-a63e-f9e6a8c7bafb)
+
